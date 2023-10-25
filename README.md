@@ -19,11 +19,6 @@ El repositorio estará siendo actualizado para cumplir con los objetivos especí
 
 5. **Predicción de la Expansión de Productos**: Utilizar técnicas de predicción para anticipar la expansión de ciertos productos en diferentes países.
 
-## Estructura del Repositorio
-
-- `data/`: Contiene los archivos de datos utilizados en el análisis.
-- `notebooks/`: Archivos Jupyter Notebook que detallan el análisis de datos.
-- `README.md`: Este archivo que proporciona una descripción general del proyecto.
 
 ## Análisis Realizados
 
